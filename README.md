@@ -1,4 +1,4 @@
-💰 **#Loan Approval Predictor using Streamlit**
+# 💻 Loan Approval Predictor using Streamlit
 
 
 A simple and interactive Bank Loan Prediction System built using Streamlit and Machine Learning. This web app predicts whether a loan will be approved based on user input.
