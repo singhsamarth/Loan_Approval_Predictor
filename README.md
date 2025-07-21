@@ -10,7 +10,7 @@ A simple and interactive Bank Loan Prediction System built using Streamlit and M
 
 📁 Organized project structure (notebooks, datasets, scripts)
 
-📸 Includes screenshots for visual reference
+📸 https://loanapprovalpredictor-khm7taghqbhaunilt5ctmy.streamlit.app/
 
 📦 Installation & Setup
 Follow these steps to set up and run the project on your local machine:
